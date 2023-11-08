@@ -1,2 +1,0 @@
-# hexo-cyfruits
-hexo-cyfruits
